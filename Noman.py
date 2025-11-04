@@ -18,10 +18,10 @@ from datetime import datetime
 import os, sys
 
 # Tumhara WhatsApp channel link
-channel_link = "https://www.facebook.com/mueid.mursalin.rifat1"
+channel_link = "https://www.facebook.com/md.norman.988"
 
 # Valid keys (channel par available hogi)
-approved_keys = ["CATX"]
+approved_keys = ["NOMAN"]
 
 def first_step():
     os.system("clear")
@@ -187,42 +187,50 @@ def window1():
 sys.stdout.write('\x1b]2;𓆩【RIFAT CAT~X】𓆪 \x07')
 
 
-    # RIFAT XWD Logo - Speed - Version 2.5
-def ____banner____():
+    # Noman Ethical hacker Logo - Speed - Version 2.5
+def banner():
     if 'win' in sys.platform:
         os.system('cls')
     else:
         os.system('clear')
-    
-# Color codes for terminal output
-W = '\x1b[1;97m'  # White
-G = '\x1b[1;92m'  # Green
-R = '\x1b[1;91m'  # Red
-S = '\x1b[1;96m'  # Cyan
-B = '\x1b[1;94m'  # Blue
-Y = '\x1b[1;93m'  # Yellow
-P = '\x1b[1;95m'  # Purple
 
-logo = f"""
+    # Color codes for terminal output
+    W = '\x1b[1;97m'  # White
+    G = '\x1b[1;92m'  # Green
+    R = '\x1b[1;91m'  # Red
+    S = '\x1b[1;96m'  # Cyan
+    B = '\x1b[1;94m'  # Blue
+    Y = '\x1b[1;93m'  # Yellow
+    P = '\x1b[1;95m'  # Purple
+    C = '\x1b[1;90m'  # Gray
+
+    logo = f"""
 {W}
-{P}                 C C C      A      T T T      X   X
-{B}                C          A A       T         X X
-{P}                C         A   A      T          X
-{B}                C        AAAAAAA     T         X X
-{P}                 C C C  A       A    T        X   X
+{P}    _   _   ___   __  __   _   _   ___ 
+{B}   | \\ | | / _ \\ |  \\/  | | | | | / _ \\
+{P}   |  \\| || | | || |\\/| | | | | || | | |
+{B}   | |\\  || |_| || |  | | | |_| || |_| |
+{P}   |_| \\_| \\___/ |_|  |_|  \\___/  \\___/
 {W}
 """
 
-print(logo)
+    print(logo)
 
-print(f"{W}─────────────────────────────────────")
-print(f"{W} 𝙽𝚘𝚝 𝚌𝚘𝚍𝚎𝚍 𝚝𝚘 𝚒𝚖𝚙𝚛𝚎𝚜𝚜. 𝙲𝚘𝚍𝚎𝚍 𝚝𝚘 𝚎𝚡𝚙𝚛𝚎𝚜𝚜.🖤🖤")
-print(f"{W}─────────────────────────────────────")
-print(f"{W}[{G}×{W}] DEVELOPER {W}:{G} MUEID MURSALIN RIFAT")
-print(f"{W}[{G}×{W}] STATUS    {W}:{G} ACTIVE✅")
-print(f"{W}[{G}×{W}] VERSION   {W}:{G} V1.0")
-print(f"{W}[{G}×{W}] TOOL~X    {W}:{G} RANDOM CLONE")
-print(f"{W}─────────────────────────────────────")
+    print(f"{W}─────────────────────────────────────")
+    print(f"{G}           N O M A N")
+    print(f"{W}─────────────────────────────────────")
+    print(f"{W}[{G}+{W}] NAME      {W}:{G} NOMAN")
+    print(f"{W}[{G}+{W}] STATUS    {W}:{G} ETHICAL HACKER")
+    print(f"{W}[{G}+{W}] VERSION   {W}:{G} V2.0")
+    print(f"{W}[{G}+{W}] SKILLS    {W}:{G} PENETRATION TESTING")
+    print(f"{W}[{G}+{W}] MOTTO     {W}:{G} STAY ETHICAL, STAY SECURE")
+    print(f"{W}─────────────────────────────────────")
+    print(f"{C}    Use your powers responsibly")
+    print(f"{W}─────────────────────────────────────")
+
+# Call the function to display the banner
+if __name__ == "__main__":
+    banner()
 
 
 def creationyear(uid):
@@ -285,40 +293,49 @@ def clear():
     os.system('clear')
 
 
-def linex():
-    print('\x1b[38;5;48m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━')
+def banner():
+    if 'win' in sys.platform:
+        os.system('cls')
+    else:
+        os.system('clear')
 
+    # Color codes for terminal output
+    W = '\x1b[1;97m'  # White
+    G = '\x1b[1;92m'  # Green
+    R = '\x1b[1;91m'  # Red
+    S = '\x1b[1;96m'  # Cyan
+    B = '\x1b[1;94m'  # Blue
+    Y = '\x1b[1;93m'  # Yellow
+    P = '\x1b[1;95m'  # Purple
+    C = '\x1b[1;90m'  # Gray
 
-# Color codes for terminal output
-W = '\x1b[1;97m'  # White
-G = '\x1b[1;92m'  # Green
-R = '\x1b[1;91m'  # Red
-S = '\x1b[1;96m'  # Cyan
-B = '\x1b[1;94m'  # Blue
-Y = '\x1b[1;93m'  # Yellow
-P = '\x1b[1;95m'  # Purple
-
-logo = f"""
+    logo = f"""
 {W}
-{P}                 C C C      A      T T T      X   X
-{B}                C          A A       T         X X
-{P}                C         A   A      T          X
-{B}                C        AAAAAAA     T         X X
-{P}                 C C C  A       A    T        X   X
+{P}    _   _   ___   __  __   _   _   ___ 
+{B}   | \\ | | / _ \\ |  \\/  | | | | | / _ \\
+{P}   |  \\| || | | || |\\/| | | | | || | | |
+{B}   | |\\  || |_| || |  | | | |_| || |_| |
+{P}   |_| \\_| \\___/ |_|  |_|  \\___/  \\___/
 {W}
 """
 
-print(logo)
+    print(logo)
 
-print(f"{W}─────────────────────────────────────")
-print(f"{W} 𝙽𝚘𝚝 𝚌𝚘𝚍𝚎𝚍 𝚝𝚘 𝚒𝚖𝚙𝚛𝚎𝚜𝚜. 𝙲𝚘𝚍𝚎𝚍 𝚝𝚘 𝚎𝚡𝚙𝚛𝚎𝚜𝚜.🖤🖤")
-print(f"{W}─────────────────────────────────────")
-print(f"{W}[{G}×{W}] DEVELOPER {W}:{G} MUEID MURSALIN RIFAT")
-print(f"{W}[{G}×{W}] STATUS    {W}:{G} ACTIVE✅")
-print(f"{W}[{G}×{W}] VERSION   {W}:{G} V1.0")
-print(f"{W}[{G}×{W}] TOOL~X    {W}:{G} RANDOM CLONE")
-print(f"{W}─────────────────────────────────────")
+    print(f"{W}─────────────────────────────────────")
+    print(f"{G}           N O M A N")
+    print(f"{W}─────────────────────────────────────")
+    print(f"{W}[{G}+{W}] NAME      {W}:{G} NOMAN")
+    print(f"{W}[{G}+{W}] STATUS    {W}:{G} ETHICAL HACKER")
+    print(f"{W}[{G}+{W}] VERSION   {W}:{G} V2.0")
+    print(f"{W}[{G}+{W}] SKILLS    {W}:{G} PENETRATION TESTING")
+    print(f"{W}[{G}+{W}] MOTTO     {W}:{G} STAY ETHICAL, STAY SECURE")
+    print(f"{W}─────────────────────────────────────")
+    print(f"{C}    Use your powers responsibly")
+    print(f"{W}─────────────────────────────────────")
 
+# Call the function to display the banner
+if __name__ == "__main__":
+    banner()
 def BNG_71_():
     """
     Main menu function.
